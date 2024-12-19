@@ -1,11 +1,17 @@
-# 👋 ProgrammerRahul's GitHub!
+<h1 align="center">Hello<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="60px"> I'm Rahul</h1>
 
-Hi, I'm Rahul! I create tutorials on **Full Stack Development** with a focus on Java, Spring Boot, Angular, Hibernate and more. 
-My GitHub is a home for the projects and code I feature in my [YouTube channel](https://www.youtube.com/@ProgrammerRahul).
+<div align="center">
+  <img src ="./banner.png" />
+</div>
 
-🎥 Join me as we explore the world of software development, one project at a time!
+<br/>
 
-## 📺 About My YouTube Channel
+## 👨🏻‍💻 About Me:
+- I create tutorials on **Full Stack Development** with a focus on Java, Spring Boot, Angular and more. 
+- My GitHub is a home for the projects and code I feature in my [YouTube channel](https://www.youtube.com/@ProgrammerRahul).
+- 👨‍💻 Life Hack: Learn new tech 🔥 and share your knowledge 🎉
+
+## 📺 YouTube Channel
 
 On my channel, you'll find:
 - **Step-by-step tutorials** for building full-stack applications.
